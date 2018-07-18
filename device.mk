@@ -345,6 +345,10 @@ PRODUCT_PACKAGES += \
     TetheringConfigOverlayCamellia \
     WifiOverlayCamellia
 
+PRODUCT_PACKAGES += \
+   LineageApertureOverlayCamellia \
+   LineageDialerCamellia
+
 # Secure Element
 PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.2.vendor
