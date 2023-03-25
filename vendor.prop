@@ -158,6 +158,9 @@ ro.hardware.gatekeeper=beanpod
 ro.vendor.gps.chrdev=gps_drv
 ro.vendor.mtk_log_hide_gps=1
 
+# HWUI
+ro.hwui.render_ahead=10
+
 # Keymaster
 ro.crypto.volume.filenames_mode=aes-256-cts
 ro.hardware.kmsetkey=beanpod
